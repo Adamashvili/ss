@@ -6,9 +6,8 @@
 /out-tsc
 /bazel-out
 
-**.gitignore**:
-```
 
+# env
 src/environments/environment.ts
 
 
