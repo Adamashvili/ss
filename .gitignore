@@ -6,13 +6,11 @@
 /out-tsc
 /bazel-out
 
- **`.gitignore` უნდა იყოს:**
+**.gitignore**:
 ```
-# Keep environment files in repo when using @ngx-env
-# src/environments/
 
-# Only ignore local override files if you create them
-src/environments/environment.local.ts
+src/environments/environment.ts
+
 
 # Node
 /node_modules
